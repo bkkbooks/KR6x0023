@@ -1,0 +1,444 @@
+canonical_identifier: bkk:krp/KR6x0023/v1
+canonical_location: https://kanripo.org/bkk/KR6x0023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 小義釋
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/N/N47/N47n0023.xml
+    old_id: N47n0023
+  edition:
+    short: bkk
+editions:
+- short: 南傳
+  label: 南傳
+  source_xml_id: wit.orig
+- short: 'N'
+assets:
+  parts:
+  - {seq: 1, filename: KR6x0023_001.yaml, hash: 'sha256:b625a30b1a7b56249639d7690de0b4bd51225b95e8b2b0a9251e9a3806aaf168'}
+  - {seq: 2, filename: KR6x0023_002.yaml, hash: 'sha256:2ea6edd5a8c6e3a2b1f8fda7a1dfd273a24b50074478b44f738bd8b6c5282b62'}
+  - {seq: 3, filename: KR6x0023_003.yaml, hash: 'sha256:5a3eeaaa5b268e8d38df218dd4c7942fc5c4ad60e7191fde33fff2488d262fff'}
+  - {seq: 4, filename: KR6x0023_004.yaml, hash: 'sha256:b8f21d9558aa6a4756813cedef4d223ef1a72770f8a8f9b1664ea0c7935f122a'}
+  - {seq: 5, filename: KR6x0023_005.yaml, hash: 'sha256:a5f2a7c66a858b66949b1dfe8b9f0ceeea12e2ff6ceba8ed5f92240f1b9f68ab'}
+  - {seq: 6, filename: KR6x0023_006.yaml, hash: 'sha256:7ffb6e3e4bb728e33ce18a385183bf271303e3b14279b1205bdb7b9f35af3cbc'}
+  - {seq: 7, filename: KR6x0023_007.yaml, hash: 'sha256:ba7ea9d4f10f94adc9f18d46819673759a37294758c93ff8adcd5dafb9627827'}
+  - {seq: 8, filename: KR6x0023_008.yaml, hash: 'sha256:c19e08a4547710a3650dba874d1ac2870c14541f719532f431fe6fb467433f97'}
+  - {seq: 9, filename: KR6x0023_009.yaml, hash: 'sha256:90b3b7f1b87ea3158af5ae6d1619bc36a3ac17e414eaf2b1be39969ec67e1023'}
+  - {seq: 10, filename: KR6x0023_010.yaml, hash: 'sha256:4a01453288a9c6296ec88157766b1c7014af56bf82149948bbc008ac9e5c25e8'}
+  - {seq: 11, filename: KR6x0023_011.yaml, hash: 'sha256:7b6effad54dc2973cadaeee88977a476631daae121f396085442f4cc1c9de113'}
+  - {seq: 12, filename: KR6x0023_012.yaml, hash: 'sha256:081793cc5ac0e67ee4dff6a071acdb32636092805edb7cfd5c6b6b6d136dfc11'}
+  - {seq: 13, filename: KR6x0023_013.yaml, hash: 'sha256:4cd1a3adfb4d53812e83a73093ef7ea742a3ad83e680b9d16f90335ad29c67f4'}
+  - {seq: 14, filename: KR6x0023_014.yaml, hash: 'sha256:d070b1d3ad5393c6e6796d44e2c8fce2297875aef9043ba7c68b4cba7f69c81c'}
+  - {seq: 15, filename: KR6x0023_015.yaml, hash: 'sha256:24569886c6c4315bbe9165d244a3d9765947b257ac6f01b92adcfebd2ec9304b'}
+  - {seq: 16, filename: KR6x0023_016.yaml, hash: 'sha256:05c7d808ec7f38390f9dfbd44eee9687448b98898fa1fb228f2b55ab08ebeac3'}
+  - {seq: 17, filename: KR6x0023_017.yaml, hash: 'sha256:f81e158f5224ba940c5ec2de8f0034b73c740c54bee4dfe5b9e2ed0628770ade'}
+  - {seq: 18, filename: KR6x0023_018.yaml, hash: 'sha256:41625b9aad1d4f5f0f905420d66cb719bf9b38f364f72eab943edbb85389b05e'}
+  - {seq: 19, filename: KR6x0023_019.yaml, hash: 'sha256:ac46c57bcf688564bc50a100299176b274e59e17a21935f9b2ba5630332eab74'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6x0023_001.markers.yaml, hash: 'sha256:4c066e06e99319027b196b3e6a8fb4b67259f7e2fa0d7fdc0cbf1b63f28552d0'}
+  - {seq: 2, role: markers, filename: assets/KR6x0023_002.markers.yaml, hash: 'sha256:ca89aab3d335aa6e44238872502cd4cd435b48cec314b8f985fa898222a40f85'}
+  - {seq: 3, role: markers, filename: assets/KR6x0023_003.markers.yaml, hash: 'sha256:85fd5e1cb06e3fa475e8f5af748d5336f97173b4031a02de40674d904eef525e'}
+  - {seq: 4, role: markers, filename: assets/KR6x0023_004.markers.yaml, hash: 'sha256:7049a610b6eac5107b9d9c37dbd05052cc92ce799b00c33137434c7b9d37f889'}
+  - {seq: 5, role: markers, filename: assets/KR6x0023_005.markers.yaml, hash: 'sha256:2411bc47b0d34d08814055d88713bdb28ec9bbb98c6d93af36ef8694422d4088'}
+  - {seq: 6, role: markers, filename: assets/KR6x0023_006.markers.yaml, hash: 'sha256:2e8ab5786cdbf10c75af26d8719ee0ed5cf63f4490f34b8957a3b17153a77193'}
+  - {seq: 7, role: markers, filename: assets/KR6x0023_007.markers.yaml, hash: 'sha256:796f4cc386e3b66dfddae0062b0032d3241f75425f8d32aba73a7e6a0afdfbed'}
+  - {seq: 8, role: markers, filename: assets/KR6x0023_008.markers.yaml, hash: 'sha256:837f2905a2e9061463743dc01678f8a7e1d2e4b6e0f7d3a89962bfe98380133b'}
+  - {seq: 9, role: markers, filename: assets/KR6x0023_009.markers.yaml, hash: 'sha256:433265003565b4846b581cd3051dbe960c21bb6c7e3ab9743759ffd081a83740'}
+  - {seq: 10, role: markers, filename: assets/KR6x0023_010.markers.yaml, hash: 'sha256:06080c6f1ef07d092d5facf5ea38d2b2e7f1f7bdd3f73a9645ff234b1ecc84c6'}
+  - {seq: 11, role: markers, filename: assets/KR6x0023_011.markers.yaml, hash: 'sha256:815de9066e2b87073a2da3508a38854f46ace01fcd5535e2a6b45a13c50569b0'}
+  - {seq: 12, role: markers, filename: assets/KR6x0023_012.markers.yaml, hash: 'sha256:eb5278537e19abe63a1621077a0541f963a674ae92db351ac1a64366f6fa4051'}
+  - {seq: 13, role: markers, filename: assets/KR6x0023_013.markers.yaml, hash: 'sha256:1d7eefec736a80514f9c35c8b171ba060d7f0eb58ed1b5c8064e013779996bc1'}
+  - {seq: 14, role: markers, filename: assets/KR6x0023_014.markers.yaml, hash: 'sha256:8f2f4dee33e0ae1eaaa39e384975ebf95db1bacdd92eba5ec6be0a1e89da5a3e'}
+  - {seq: 15, role: markers, filename: assets/KR6x0023_015.markers.yaml, hash: 'sha256:9f5bc268b7d4d2a35bc038034dc8ef17ca7b27cacaef90f61a3938ea28982dc6'}
+  - {seq: 16, role: markers, filename: assets/KR6x0023_016.markers.yaml, hash: 'sha256:a7453b8e51db3a13c7baec717ac2881afd71a147a3b764978e1ff98524f36754'}
+  - {seq: 17, role: markers, filename: assets/KR6x0023_017.markers.yaml, hash: 'sha256:30c478b5dc7c062534f970a33964c3fe43572192b383c0ece973c76e24e35e91'}
+  - {seq: 18, role: markers, filename: assets/KR6x0023_018.markers.yaml, hash: 'sha256:b64b5bcdbc71666fe21d891ea58d1749876ad655a33c5c4469b63fed6f37d519'}
+  - {seq: 19, role: markers, filename: assets/KR6x0023_019.markers.yaml, hash: 'sha256:1175a03d10aedc663a7aba05db6c5be614397f59bc480462a432bbd5a98d5224'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6x0023_N_001-juan-start
+    span:
+    - body
+    - 0
+    - 1896
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0023_N_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 序偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0023_N_002-juan-start
+    span:
+    - body
+    - 0
+    - 7313
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0023_N_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第一　阿耆多學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6x0023_N_003-juan-start
+    span:
+    - body
+    - 0
+    - 2453
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6x0023_N_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第二　帝須彌勒學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6x0023_N_004-juan-start
+    span:
+    - body
+    - 0
+    - 7569
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6x0023_N_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第三　富那迦學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6x0023_N_005-juan-start
+    span:
+    - body
+    - 0
+    - 11874
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6x0023_N_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第四　彌多求學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6x0023_N_006-juan-start
+    span:
+    - body
+    - 0
+    - 5249
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6x0023_N_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第五　度多迦學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6x0023_N_007-juan-start
+    span:
+    - body
+    - 0
+    - 4426
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6x0023_N_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第六　優波私婆學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6x0023_N_008-juan-start
+    span:
+    - body
+    - 0
+    - 5333
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6x0023_N_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第七　難陀學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6x0023_N_009-juan-start
+    span:
+    - body
+    - 0
+    - 2326
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6x0023_N_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第八　醯摩迦學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6x0023_N_010-juan-start
+    span:
+    - body
+    - 0
+    - 1973
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6x0023_N_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第九　刀提耶學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6x0023_N_011-juan-start
+    span:
+    - body
+    - 0
+    - 3359
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6x0023_N_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第十　劫波學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6x0023_N_012-juan-start
+    span:
+    - body
+    - 0
+    - 2974
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6x0023_N_012-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第十一　闇都乾耳學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6x0023_N_013-juan-start
+    span:
+    - body
+    - 0
+    - 2713
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6x0023_N_013-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第十二　跋陀羅浮陀學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6x0023_N_014-juan-start
+    span:
+    - body
+    - 0
+    - 3864
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6x0023_N_014-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第十三　優陀耶學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6x0023_N_015-juan-start
+    span:
+    - body
+    - 0
+    - 3857
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6x0023_N_015-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第十四　布沙羅學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6x0023_N_016-juan-start
+    span:
+    - body
+    - 0
+    - 6741
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6x0023_N_016-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第十五　莫伽羅闍學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6x0023_N_017-juan-start
+    span:
+    - body
+    - 0
+    - 2585
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6x0023_N_017-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第十六　賓祗耶學童所問之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6x0023_N_018-juan-start
+    span:
+    - body
+    - 0
+    - 14800
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6x0023_N_018-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十六學童所問結語之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6x0023_N_019-juan-start
+    span:
+    - body
+    - 0
+    - 30900
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6x0023_N_019-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 犀角經之義釋
+  type: mulu
+  level: 1
+hash: sha256:b0ee4442ec60bf36a7060452e4f472c458d0cfd6f44ecc5ebbacbf30b7d66808
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
